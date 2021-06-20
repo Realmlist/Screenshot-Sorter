@@ -1,6 +1,6 @@
 <# 
 SCREENSHOT SORTER by Realmlist
-Sorts files by year, then by month.
+Sorts files by year, then by month, then by day (number).
 Works with any common image files in any folder, just adjust $screenshotsFolder & $targetPath 
 #>
 
