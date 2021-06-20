@@ -1,3 +1,3 @@
 # Powershell Screenshot Sorter
 
-Got tired of sorting all my screenshots manually, wrote a script.
+Got tired of sorting all my screenshots manually, wrote a powershell script.
